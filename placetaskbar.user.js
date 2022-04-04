@@ -22,7 +22,7 @@ var placeOrders = [];
 var accessToken;
 var canvas = document.createElement('canvas');
 
-const VERSION = 14
+const VERSION = 15
 var UPDATE_PENDING = false;
 
 const COLOR_MAPPINGS = {
@@ -35,6 +35,7 @@ const COLOR_MAPPINGS = {
 	'#7EED56': 8,
 	'#00756F': 9,
 	'#009EAA': 10,
+	'#00CCC0': 11,
 	'#2450A4': 12,
 	'#3690EA': 13,
 	'#51E9F4': 14,
