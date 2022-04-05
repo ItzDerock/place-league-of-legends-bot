@@ -1,3 +1,6 @@
+> # ⚠️ Since r/place has closed, this repo has been archived.
+> # It will be unarchived next time r/place opens assuming im still playing league. 
+
 # Place-taskbar-bot
 
 This bot is based on [placeDE's bot](https://github.com/placeDE/Bot).
